@@ -8,3 +8,4 @@ Emotion Classification using NLP involves the application of Natural Language Pr
 [View](https://github.com/achmadhadikurnia/belajar-pengembangan-machine-learning-dicoding-certificate)
 
 ## Screenshots
+![screenshot_1.png](/screenshots/screenshot_1.png)
